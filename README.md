@@ -15,6 +15,5 @@
 # 📊 GitHub Stats:
 ![NKT's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToanNguyenKhanh&show_icons=true&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=470)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToanNguyenKhanh&layout=compact&theme=nightowl)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ToanNguyenKhanh&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=470)](https://git.io/streak-stats)
-
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ToanNguyenKhanh&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=470)](https://git.io/streak-stats)<br>
+![LeetCode Stats](https://leetcard.jacoblin.cool/khanhtoancarry?theme=nord&font=Public%20Sans&ext=heatmap&width=470&show_rank=False)
