@@ -16,3 +16,11 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ToanNguyenKhanh&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=470)](https://git.io/streak-stats)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToanNguyenKhanh&layout=compact&theme=nightowl)<br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/khanhtoancarry?theme=wtf,nord&font=Public%20Sans&ext=heatmap&width=470&show_rank=False&border=0&radius=20)
+
+<div align="center">
+  <h2>📁 Brain Tumor Image Classification</h2>
+  <p>This repository contains code for brain tumor image classification using CNN.</p>
+  <a href="https://github.com/ToanNguyenKhanh/brain-tumor-image-classification-cnn-self-build">
+    <img src="https://github.com/ToanNguyenKhanh/brain-tumor-image-classification-cnn-self-build/raw/main/sample_image.png" alt="Brain Tumor Image Classification" width="400">
+  </a>
+</div>
