@@ -23,10 +23,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=brain-tumor-image-classification&theme=radical" />
 </a>    
 
-<a href="https://github.com/ToanNguyenKhanh/Pesplanus-image-classification-using-CNN">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=Pesplanus-image-classification-using-CNN&theme=radical" />
-</a>    
+
 
 <a href="https://github.com/ToanNguyenKhanh/AG-News-Text-Classification">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
