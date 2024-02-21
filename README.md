@@ -18,7 +18,23 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToanNguyenKhanh&layout=compact&theme=nightowl)](https://github.com/ToanNguyenKhanh/github-readme-stats)<br>
 ![](https://github.com/ToanNguyenKhanh/github-stats/blob/master/generated/languages.svg)<br>
 
-<a href="https://github.com/ToanNguyenKhanh/brain-tumor-image-classification-cnn-self-build/">
+
+<a href="https://github.com/ToanNguyenKhanh/Pesplanus-image-classification-using-CNN">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=brain-tumor-image-classification-cnn-self-build&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=Pesplanus-image-classification-using-CNN&theme=radical" />
+</a>    
+
+<a href="https://github.com/ToanNguyenKhanh/AG-News-Text-Classification">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=AG-News-Text-Classification&theme=radical" />
+</a>    
+
+<a href="https://github.com/ToanNguyenKhanh/HaNoi-Tower-project-using-Stack">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=HaNoi-Tower-project-using-Stack&theme=radical" />
+</a>    
+
+<a href="https://github.com/ToanNguyenKhanh/Kaggle_Competitions/blob/main/spaceship-titanic/spaceship_titanic.ipynb">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=Kaggle_Competitions&theme=radical" />
 </a>    
