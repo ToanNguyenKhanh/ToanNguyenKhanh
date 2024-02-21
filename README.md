@@ -17,10 +17,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToanNguyenKhanh&layout=compact&theme=nightowl)<br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/khanhtoancarry?theme=wtf,nord&font=Public%20Sans&ext=heatmap&width=470&show_rank=False&border=0&radius=20)
 
-<div align="center">
-  <h2>📁 Brain Tumor Image Classification</h2>
-  <p>This repository contains code for brain tumor image classification using CNN.</p>
-  <a href="https://github.com/ToanNguyenKhanh/brain-tumor-image-classification-cnn-self-build">
-    <img src="https://github.com/ToanNguyenKhanh/brain-tumor-image-classification-cnn-self-build/raw/main/sample_image.png" alt="Brain Tumor Image Classification" width="400">
-  </a>
-</div>
+<a href="https://github.com/uvipen/ASCII-generator/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=ASCII-generator&theme=merko" />
+</a>
