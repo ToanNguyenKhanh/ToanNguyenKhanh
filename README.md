@@ -15,11 +15,7 @@
 # 📊 GitHub:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ToanNguyenKhanh&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=470)](https://git.io/streak-stats)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToanNguyenKhanh&layout=compact&theme=nightowl)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToanNguyenKhanh&layout=compact&theme=nightowl)](https://github.com/ToanNguyenKhanh/github-readme-stats)<br>
 ![](https://github.com/ToanNguyenKhanh/github-stats/blob/master/generated/languages.svg)<br>
-![LeetCode Stats](https://leetcard.jacoblin.cool/khanhtoancarry?theme=wtf,nord&font=Public%20Sans&ext=heatmap&width=470&show_rank=False&border=0&radius=20)
 
-<a href="https://github.com/ToanNguyenKhanh/brain-tumor-image-classification-cnn-self-build/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=brain-tumor-image-classification-cnn-self-build&theme=radical" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=brain-tumor-image-classification-cnn-self-build&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
