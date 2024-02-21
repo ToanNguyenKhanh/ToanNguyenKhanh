@@ -18,4 +18,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToanNguyenKhanh&layout=compact&theme=nightowl)](https://github.com/ToanNguyenKhanh/github-readme-stats)<br>
 ![](https://github.com/ToanNguyenKhanh/github-stats/blob/master/generated/languages.svg)<br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=brain-tumor-image-classification&theme=radical)](https://github.com/ToanNguyenKhanh/brain-tumor-image-classification-cnn-self-build/)
+<a href="https://github.com/ToanNguyenKhanh/brain-tumor-image-classification-cnn-self-build/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=brain-tumor-image-classification-cnn-self-build&theme=radical" />
+</a>    
