@@ -37,9 +37,4 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=HaNoi-Tower-project-using-Stack&theme=radical" />
 </a>    
 
-<a href="https://github.com/ToanNguyenKhanh/spaceship-titanic">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=spaceship-titanic&theme=radical" />
-</a>    
 
-  
