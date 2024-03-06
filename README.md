@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
 <h1 align="center">Hi 👋, I'm Nguyen Khanh Toan</h1>
-<h3 align="center">A passionate AI Engineer from Viet Nam</h3>
+<h3 align="center">A passionate AI Engineer from Viet Nam.</h3>
 
 # 💫 About Me:
 - 🔭 I’m currently learning DS/AI/ML as a 3nd year student<br>
