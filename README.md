@@ -20,6 +20,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToanNguyenKhanh&layout=compact&theme=nightowl)](https://github.com/ToanNguyenKhanh/github-readme-stats)<br>
 ![](https://github.com/ToanNguyenKhanh/github-stats/blob/master/generated/languages.svg)<br>
 
+
+
+<a href="https://github.com/ToanNguyenKhanh/Tree-Detection">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=Tree-Detection&theme=radical" />
+</a>    
+
 <a href="https://github.com/ToanNguyenKhanh/brain-tumor-image-classification">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=brain-tumor-image-classification&theme=radical" />
