@@ -22,9 +22,9 @@
 
 
 
-<a href="https://github.com/ToanNguyenKhanh/Tree-Detection">
+<a href="https://github.com/ToanNguyenKhanh/Tree-Detection-using-faster_RCNN">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=Tree-Detection&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=Tree-Detection-using-faster_RCNN&theme=radical" />
 </a>    
 
 <a href="https://github.com/ToanNguyenKhanh/brain-tumor-image-classification">
