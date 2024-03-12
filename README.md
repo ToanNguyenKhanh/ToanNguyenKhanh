@@ -3,7 +3,7 @@
 <h3 align="center">A passionate AI Engineer from Viet Nam.</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently learning DS/AI/ML as a 3nd year student<br>
+- 🔭 I’m currently learning DS/AI/ML as a 3nd year student.<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/toan-nguyen-khanh-77b234221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/toan-nguyen-khanh-77b234221/" height="30" width="40" /></a>
