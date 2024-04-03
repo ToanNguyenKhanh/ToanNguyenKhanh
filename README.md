@@ -12,7 +12,7 @@
 
 ## 💻 Tech Stack:
 <!--![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/Pytorch-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) -->
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,cs,mysql,pycharm,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c++,pytorch,sklearn,opencv,cs,mysql,pycharm,docker,linux)](https://skillicons.dev)
 
 # 📊 GitHub:
 
