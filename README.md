@@ -33,6 +33,9 @@
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=282828">
     <img alt="OpenGL" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=282828">
     <img alt="OpenGL" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&labelColor=282828">
+    <img alt="OpenGL" src="https://img.shields.io/badge/-ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white&labelColor=282828">
+
+    
 
     
    </div>
