@@ -1,9 +1,19 @@
 <img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
-<h1 align="center">Hi 👋, I'm Khanh Toan</h1>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Khanh+Toan!;" />
+</h1>
 <h3 align="center">A passionate AI Engineer from Viet Nam</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently learning DS/AI/ML as a 3nd year student.<br>
+<div align="center">
+
+ 🌍 I'm based in Vietnamese 
+ 
+- 🔭 I’m currently learning Data Science and Financial Mathematicals as a 3nd year student.<br>
+ 
+ </div>
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/toan-nguyen-khanh-77b234221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/toan-nguyen-khanh-77b234221/" height="30" width="40" /></a>
