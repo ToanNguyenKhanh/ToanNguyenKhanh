@@ -81,10 +81,13 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/ToanNguyenKhanh/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ToanNguyenKhanh/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ToanNguyenKhanh/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 <a href="https://github.com/ToanNguyenKhanh/Forklift-Object-detection">
