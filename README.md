@@ -8,9 +8,9 @@
 # 💫 About Me:
 <div align="center">
 
- 🌍 I'm based in Vietnamese 
+ 🌍 I'm Vietnamese 
  
-- 🔭 I’m currently learning Data Science and Financial Mathematicals as a 3nd year student.<br>
+ 🔭 I’m currently learning Data Science and Financial Mathematicals as a 3nd year student.<br>
  
  </div>
  
