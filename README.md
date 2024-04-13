@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Khanh+Toan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi!+👋;+I'm+Khanh+Toan!;" />
 </h1>
 <h3 align="center">A passionate AI Engineer from Viet Nam</h3>
 
