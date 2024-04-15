@@ -39,6 +39,8 @@
    <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=orange&labelColor=282828">
    <img src="https://img.shields.io/badge/-C++-1ca0f1?style=for-the-badge&logo=cplusplus&logoColor=1ca0f1&labelColor=282828">
    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white&labelColor=282828"> 
+   <img src="https://img.shields.io/badge/R-EADBC8.svg?style=for-the-badge&logo=R&logoColor=blue&labelColor=282829"> 
+
     
   </div>
 
