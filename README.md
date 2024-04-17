@@ -80,7 +80,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToanNguyenKhanh&layout=compact&theme=nightowl)](https://github.com/ToanNguyenKhanh/github-readme-stats)<br>
 ![](https://github.com/ToanNguyenKhanh/github-stats/blob/master/generated/languages.svg)<br>
 
-
+<!--
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
 </div>
@@ -90,7 +90,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/ToanNguyenKhanh/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-
+ -->
 
 <a href="https://github.com/ToanNguyenKhanh/Forklift-Object-detection">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
