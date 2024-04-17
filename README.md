@@ -1,12 +1,12 @@
 <img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
 
-<h1 align="center">
+<h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi!+👋;+I'm+Khanh+Toan!;" />
 </h1>
-<h3 align="center">A passionate AI Engineer from Viet Nam</h3>
+<h3 align="left">A passionate AI Engineer from Viet Nam</h3>
 
 # 💫 About Me:
-<div align="center">
+<div align="left">
 
  🌍 I'm Vietnamese 
  
@@ -16,7 +16,7 @@
  
 <h3 align="left">Connect with me:</h3>
 
-<div align="center"> 
+<div align="left"> 
   <a href="mailto:nktoan163@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -34,7 +34,7 @@
 
 
   <h3>Languages</br></h3>
-  <div align="center">
+  <div align="left">
 
    <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=orange&labelColor=282828">
    <img src="https://img.shields.io/badge/-C++-1ca0f1?style=for-the-badge&logo=cplusplus&logoColor=1ca0f1&labelColor=282828">
@@ -45,7 +45,7 @@
   </div>
 
   <h3>Libraries & Frameworks</br></h3>
-  <div align="center">
+  <div align="left">
     <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&labelColor=282828">
     <img alt="sklearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=282828">
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5c3ee8?style=for-the-badge&logo=opencv&logoColor=5c3ee8&labelColor=282828">
@@ -63,7 +63,7 @@
    </div>
 
   <h3>Software & Tools</br></h3>
-   <div align="center">
+   <div align="left">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-4d77cf?style=for-the-badge&logo=docker&logoColor=4d77cf&labelColor=282828">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-f5c022?style=for-the-badge&logo=linux&logoColor=f5c022&labelColor=282828">
     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=282828">
