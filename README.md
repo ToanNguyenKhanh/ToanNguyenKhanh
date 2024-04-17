@@ -76,26 +76,32 @@
 
 # 📊 GitHub:
 
+<h1 align="center">
+    
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ToanNguyenKhanh&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=470)](https://git.io/streak-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToanNguyenKhanh&layout=compact&theme=nightowl)](https://github.com/ToanNguyenKhanh/github-readme-stats)<br>
 ![](https://github.com/ToanNguyenKhanh/github-stats/blob/master/generated/languages.svg)<br>
 
+</h1>
+
 <!--
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-</div>
+</div> 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ToanNguyenKhanh/snk/blob/output-svg-only/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/ToanNguyenKhanh/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
- -->
+</picture> -->
+
+<h1 align="center">
 
 <a href="https://github.com/ToanNguyenKhanh/Forklift-Object-detection">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=Forklift-Object-detection&theme=radical" />
 </a>   
+
 
 <a href="https://github.com/ToanNguyenKhanh/Tree-Detection-using-faster_RCNN">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -122,6 +128,6 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=HaNoi-Tower-project-using-Stack&theme=radical" />
 </a>    
 
-
+</h1>
 
 
