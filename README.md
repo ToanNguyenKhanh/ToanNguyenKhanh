@@ -110,8 +110,6 @@
 
 <h1 align="left">
 
-
-
 <a href="https://github.com/ToanNguyenKhanh/tennis-analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=tennis-analysis&theme=radical" />
