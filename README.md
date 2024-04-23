@@ -13,7 +13,7 @@
 <h1 align="middle">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi!+👋;+I'm+Khanh+Toan!;" />
 </h1>
-<h3 align="left">A passionate AI Engineer from Viet Nam</h3>
+<h3 align="middle">A passionate AI Engineer from Viet Nam</h3>
 
 # 💫 About Me:
 <div align="left">
