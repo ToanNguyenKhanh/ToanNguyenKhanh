@@ -109,41 +109,34 @@
 # 🤖🚀 My Projects 🔬🛠️:
 
 <h1 align="left">
-  <!--
-<a href="https://github.com/ToanNguyenKhanh/tennis-analysis">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=tennis-analysis&theme=radical" />
+
+<a href="https://github.com/ToanNguyenKhanh/Badminton-Analysis"> 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=Badminton-Analysis&theme=radical" />
 </a>   
--->
+
 
 <a href="https://github.com/ToanNguyenKhanh/Forklift-Object-detection">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=Forklift-Object-detection&theme=radical" />
 </a>   
 
 
 <a href="https://github.com/ToanNguyenKhanh/Tree-Detection-using-faster_RCNN">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=Tree-Detection-using-faster_RCNN&theme=radical" />
 </a>    
 
 <a href="https://github.com/ToanNguyenKhanh/brain-tumor-image-classification">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=brain-tumor-image-classification&theme=radical" />
 </a>    
 
 <a href="https://github.com/ToanNguyenKhanh/AG-News-Text-Classification">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=AG-News-Text-Classification&theme=radical" />
 </a>  
 
 <a href="https://github.com/ToanNguyenKhanh/spaceship-titanic">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=spaceship-titanic&theme=radical" />
 </a>   
 
 <a href="https://github.com/ToanNguyenKhanh/HaNoi-Tower-project-using-Stack">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=HaNoi-Tower-project-using-Stack&theme=radical" />
 </a>    
 
