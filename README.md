@@ -111,6 +111,11 @@
 
 <h1 align="left">
 
+<a href="https://github.com/ToanNguyenKhanh/HighwayCounter_YOLOv8"> 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=HighwayCounter_YOLOv8&theme=radical" />
+</a>   
+
+
 <a href="https://github.com/ToanNguyenKhanh/Badminton-Analysis"> 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=Badminton-Analysis&theme=radical" />
 </a>   
