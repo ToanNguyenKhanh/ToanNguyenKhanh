@@ -13,14 +13,14 @@
 <h1 align="middle">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi!+👋;+I'm+Khanh+Toan!;" />
 </h1>
-<h3 align="middle">A passionate AI Engineer from Viet Nam</h3>
+<h3 align="middle">A passionate AI/Data Engineer from Viet Nam</h3>
 
 # 💫 About Me:
 <div align="left">
 
  🌍 I'm Vietnamese 
  
- 🔭 I’m currently learning Data Science and Financial Mathematicals as a 3nd year student at UEH University.<br>
+ 🔭 I’m currently learning Data Science and Financial Mathematicals as a 4th year student at UEH University.<br>
  
  </div>
  
@@ -30,9 +30,11 @@
   <a href="mailto:nktoan163@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+  
   <a href="https://www.linkedin.com/in/toankhanhnguyen/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  
   <a href="https://toannguyenkhanh.github.io/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
@@ -47,7 +49,6 @@
   <div align="left">
 
    <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=orange&labelColor=282828">
-   <img src="https://img.shields.io/badge/-C++-1ca0f1?style=for-the-badge&logo=cplusplus&logoColor=1ca0f1&labelColor=282828">
    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white&labelColor=282828"> 
    <img src="https://img.shields.io/badge/R-EADBC8.svg?style=for-the-badge&logo=R&logoColor=blue&labelColor=282829"> 
 
@@ -56,18 +57,22 @@
 
   <h3>Libraries & Frameworks</br></h3>
   <div align="left">
+    <img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=Apache+Kafka&logoColor=FFFFFF">
+    <img alt="Minio" src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=MinIO&logoColor=FFFFFF">
+    <img alt="Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache+Airflow&logoColor=FFFFFF">
+    <img alt="Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=Apache+Spark&logoColor=FFFFFF">
+    <img alt="Hive" src="https://img.shields.io/badge/Apache%20Hive-222222?style=for-the-badge&logo=Apache+Hive&logoColor=FDEE21">
+    <img alt="Hadoop" src="https://img.shields.io/badge/Apache%20Hadoop-222222?style=for-the-badge&logo=Apache+Hadoop&logoColor=66CCFF">
     <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&labelColor=282828">
     <img alt="sklearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=282828">
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5c3ee8?style=for-the-badge&logo=opencv&logoColor=5c3ee8&labelColor=282828">
-    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&labelColor=282828">
-    <img alt="Onnx" src="https://img.shields.io/badge/-ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white&labelColor=282828">
+<!--     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&labelColor=282828"> -->
+<!--     <img alt="Onnx" src="https://img.shields.io/badge/-ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white&labelColor=282828"> -->
     <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&&logo=circle&logoColor=11557c&labelColor=282828">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=282828">
     <img alt="Numpy" src="https://img.shields.io/badge/Numpy-4d77cf?style=for-the-badge&logo=numpy&logoColor=4d77cf&labelColor=282828">
 
 
-
-    
 
     
    </div>
@@ -81,7 +86,6 @@
     <img alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-f27727?style=for-the-badge&logo=Jupyter&logoColor=f27727&labelColor=282828">
     <img alt="Colab" src="https://img.shields.io/badge/Colab-fb9c04?style=for-the-badge&&logo=google-colab&logoColor=fb9c04&labelColor=282828">
-    <img alt="VMWare" src="https://img.shields.io/badge/VMWare-208abc?style=for-the-badge&logo=vmware&logoColor=208abc&labelColor=282828">
    </div>
 
 # 📊 GitHub:
@@ -151,6 +155,7 @@
 </a>    
 
 </h1>
+
 
 
 
