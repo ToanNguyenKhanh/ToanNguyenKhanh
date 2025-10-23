@@ -115,6 +115,11 @@
 
 <h1 align="left">
 
+
+<a href="https://github.com/ToanNguyenKhanh/ecommerce-lakehouse">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=ecommerce-lakehouse&theme=radical" />
+</a>   
+
 <a href="https://github.com/ToanNguyenKhanh/Data_Sync">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanNguyenKhanh&repo=Data_Sync&theme=radical" />
 </a>   
@@ -155,6 +160,7 @@
 </a>    
 
 </h1>
+
 
 
 
